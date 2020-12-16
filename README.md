@@ -2,7 +2,7 @@
 
 A (dirty) Haskell blog generator.
 
-I'm using this for my [own site](https://evuez.github.io/) (repo here: https://github.com/evuez/evuez.github.io).
+I'm using this for my [own site](https://liftm.io/) (repo here: https://github.com/evuez/evuez.github.io).
 
 Setting it up is pretty simple, install it with `stack install`, then create a `kiwi.toml` file:
 
